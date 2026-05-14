@@ -22,7 +22,7 @@ Control the brightness of an LED using a potentiometer connected to an Arduino U
 
 ## Circuit Diagram
 
-> *(Circuit diagram is included in the original submission document.)*
+<img src="assets/lab01_circuit.png" alt="Circuit Diagram" width="600"/>
 
 ---
 
