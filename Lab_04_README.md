@@ -27,6 +27,10 @@ Use BIOS interrupts in an 8086 emulator to display a string (student's name) on 
 
 ---
 
+## Compiler
+
+<img src="assets/lab04_code.png" alt="Circuit Diagram" width="600"/>
+
 ## Experiment Code
 
 ```asm
