@@ -27,6 +27,10 @@ Simulate sensor-based LED control logic in an 8086 emulator using assembly langu
 
 ---
 
+##Compiler
+
+<img src="assets/lab05_code.png" alt="Circuit Diagram" width="600"/>
+
 ## Experiment Code
 
 ```asm
