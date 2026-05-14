@@ -43,6 +43,11 @@ Design and simulate an Arduino Uno system that reads temperature and pressure da
 
 ---
 
+## Circuit IDE
+
+<img src="assets/lab03_circuit.png" alt="Circuit Diagram" width="600"/>
+
+
 ## Experiment Code
 
 ```cpp
